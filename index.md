@@ -22,7 +22,7 @@ After you have done this, you simply write to the console ```git clone https://g
   For Arch-based distributions: ```sudo pacman -S git luajit curl love ffmpeg sqlite openssl```; (todo)
 If you want actually to start the game you need to click **1** on your keyboard.
 ## Downloading (Windows)
-You need to install **git**. You can download it through (this)[https://git-scm.com/] link. Then, you write this thing in your command prompt ```git clone https://github.com/semyon422/soundsphere-updater```. Next, you need to go into this directory and open **launcher.bat**. Then, you click **2** to download actual game.
+You need to install **git**. You can download it through [this](https://git-scm.com/) link. Then, you write this thing in your command prompt ```git clone https://github.com/semyon422/soundsphere-updater```. Next, you need to go into this directory and open **launcher.bat**. Then, you click **2** to download actual game.
 If you want actually to start the game you need to click **1** on your keyboard.
 
 # Adding maps
