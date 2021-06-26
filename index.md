@@ -1,11 +1,28 @@
-## Welcome to some guide, i guess?
+# Что готово
+- [x] Приветствие
+- [] Загрузка
+- [] Установка
+  - [] Установка (Windows)
+  - [] Установка (Linux)
+- [] Добавление карт
+- [] Настройка
+- [] Скининг
+- [] Вспомогательные вещи + ресурсы
 
-test
 
-### Install
+# Welcome
+Well, welcome to the unofficial soundsphere guide, i guess? This thing was designed to help install and configure soundsphere on their PC. It's not that hard as you think if you visited this page.
+# Downloading
 
-bro
+# Installing
+## Installing (Windows)
 
-# Header 1
-## Header 2
-### Header 3
+## Installing (Linux)
+
+# Adding maps
+
+# Settings
+
+# Skining
+
+# Addidional things
